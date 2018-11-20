@@ -100,6 +100,13 @@ a:active {
 	outline: 0;
 }
 
+/* Image */
+.iphone {
+	width:100px;
+	height:auto;
+} 
+
+
 /* ===================================================================
  * 03. typography & general theme styles - (_document-setup.scss) 
  *
