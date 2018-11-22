@@ -100,13 +100,6 @@ a:active {
 	outline: 0;
 }
 
-/* Image */
-.iphone {
-	width:100px;
-	height:auto;
-} 
-
-
 /* ===================================================================
  * 03. typography & general theme styles - (_document-setup.scss) 
  *
@@ -1413,9 +1406,8 @@ header .logo a {
 
 #intro img {
 	vertical-align: bottom;
-	max-width: 840px;
-	width: 100%;
-	box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.3);
+	/*max-width: 840px;*/
+	width: 50%;
 }
 
 .shadow-overlay {
