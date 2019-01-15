@@ -1354,7 +1354,6 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #intro {
 	position: relative;
-	background-image: url(../images/BlackBg.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center top;
