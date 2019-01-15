@@ -1366,6 +1366,7 @@ header .logo a {
 	overflow: hidden;
 }
 
+
 #intro .intro-content {
 	position: relative;
 	z-index: 600;
@@ -1400,8 +1401,8 @@ header .logo a {
 
 #intro .buttons .button:hover,
 #intro .buttons .button:focus {
-	border: 3px solid #f9da4f;
-	color: #f9da4f;
+	border: 3px solid red;
+	color: red;
 }
 
 #intro img {
